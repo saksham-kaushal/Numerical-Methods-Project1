@@ -1,0 +1,112 @@
+
+
+ ./task1 --------------------------------------------------
+
+
+0-4000pc :
+retrieved_abs_mag mean = 0.9045798599081117
+retrieved_abs_mag stddev = 0.4395753233682792
+true_abs_mag mean = 0.5999961437071628
+true_abs_mag stddev = 0.0010404929235979987
+
+
+Mean :
+                       retrieved_abs_mag  true_abs_mag
+dist_category                                         
+upto 1kpc distance              0.615865      0.600015
+1-2kpc distance range           0.674782      0.600006
+2-3kpc distance range           0.797170      0.599990
+3-4kpc distance range           0.988779      0.599997
+
+
+Dispersion :
+                       retrieved_abs_mag  true_abs_mag
+dist_category                                         
+upto 1kpc distance              0.082431      0.001002
+1-2kpc distance range           0.193205      0.001047
+2-3kpc distance range           0.338255      0.001045
+3-4kpc distance range           0.481239      0.001039
+
+
+ ./task2 --------------------------------------------------
+
+
+0-4000pc :
+retrieved_abs_mag mean = 0.7482994284860484
+retrieved_abs_mag stddev = 0.303505197601607
+true_abs_mag mean = 0.5999980202457883
+true_abs_mag stddev = 0.0010406269772684992
+
+
+Mean :
+                       retrieved_abs_mag  true_abs_mag
+dist_category                                         
+upto 1kpc distance              0.613004      0.600022
+1-2kpc distance range           0.671258      0.599981
+2-3kpc distance range           0.779356      0.599998
+3-4kpc distance range           0.748774      0.600001
+
+
+Dispersion :
+                       retrieved_abs_mag  true_abs_mag
+dist_category                                         
+upto 1kpc distance              0.084283      0.001046
+1-2kpc distance range           0.193484      0.001041
+2-3kpc distance range           0.314060      0.001042
+3-4kpc distance range           0.314839      0.001039
+
+
+ ./task3 --------------------------------------------------
+
+
+0-4000pc :
+retrieved_abs_mag mean = 0.683429665704781
+retrieved_abs_mag stddev = 0.29213170901200175
+true_abs_mag mean = 0.6000010737328515
+true_abs_mag stddev = 0.0010400221517953606
+
+
+Mean :
+                       retrieved_abs_mag  true_abs_mag
+dist_category                                         
+upto 1kpc distance              0.605028      0.599998
+1-2kpc distance range           0.632476      0.600006
+2-3kpc distance range           0.697659      0.600002
+3-4kpc distance range           0.787593      0.599999
+
+
+Dispersion :
+                       retrieved_abs_mag  true_abs_mag
+dist_category                                         
+upto 1kpc distance              0.064463      0.001038
+1-2kpc distance range           0.171594      0.001043
+2-3kpc distance range           0.298495      0.001039
+3-4kpc distance range           0.433056      0.001040
+
+
+ ./task4 --------------------------------------------------
+
+
+0-4000pc :
+retrieved_abs_mag mean = 0.6201598266234526
+retrieved_abs_mag stddev = 0.08566855745784942
+true_abs_mag mean = 0.5999978132687727
+true_abs_mag stddev = 0.001041570631781055
+
+
+Mean :
+                       retrieved_abs_mag  true_abs_mag
+dist_category                                         
+upto 1kpc distance              0.599512      0.600004
+1-2kpc distance range           0.601000      0.599995
+2-3kpc distance range           0.608094      0.599995
+3-4kpc distance range           0.630176      0.600000
+
+
+Dispersion :
+                       retrieved_abs_mag  true_abs_mag
+dist_category                                         
+upto 1kpc distance              0.013020      0.001073
+1-2kpc distance range           0.023474      0.001041
+2-3kpc distance range           0.053058      0.001037
+3-4kpc distance range           0.103726      0.001043
