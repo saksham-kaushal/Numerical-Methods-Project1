@@ -1,0 +1,25 @@
+
+
+0-4000pc :
+retrieved_abs_mag mean = 0.6201598266234526
+retrieved_abs_mag stddev = 0.08566855745784942
+true_abs_mag mean = 0.5999978132687727
+true_abs_mag stddev = 0.001041570631781055
+
+
+Mean :
+                       retrieved_abs_mag  true_abs_mag
+dist_category                                         
+upto 1kpc distance              0.599512      0.600004
+1-2kpc distance range           0.601000      0.599995
+2-3kpc distance range           0.608094      0.599995
+3-4kpc distance range           0.630176      0.600000
+
+
+Dispersion :
+                       retrieved_abs_mag  true_abs_mag
+dist_category                                         
+upto 1kpc distance              0.013020      0.001073
+1-2kpc distance range           0.023474      0.001041
+2-3kpc distance range           0.053058      0.001037
+3-4kpc distance range           0.103726      0.001043
